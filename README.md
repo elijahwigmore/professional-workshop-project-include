@@ -12,8 +12,8 @@ In the Professional Combo Workshop, we provide an introduction to both software 
 - Week 7: Gaining Insight into the Software Industry
 
 ## Course Materials
-- Week 1: [Introductory slides] (https://slides.com/mreiter/deck/live#/).
+- Week 1: [Introductory slides] (https://slides.com/mreiter/deck/live#/)
 
 ## Links
 - Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm
-- Click [here] () to download Atom
+- Click [here] (https://atom.io/) to download Atom
