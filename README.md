@@ -14,4 +14,5 @@ the software industry is like and entering it.
 - Week 7: Gaining Insight into the Software Industry
 
 ## Links
-Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm.
+- [PyCharm] (https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Atom] (https://atom.io/)
