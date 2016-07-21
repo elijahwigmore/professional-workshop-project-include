@@ -1,5 +1,7 @@
 # Project Include: Professional Combo Workshop
 
+![alt text](http://bit.ly/29XrNQE "Project Include Logo")
+
 ## About
 Project Include is an initiative that is part of the Engineering Society at the University of Toronto. We are hosting workshops throughout Toronto to teach people how to program.
 
