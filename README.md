@@ -13,6 +13,7 @@ In the Professional Combo Workshop, we provide an introduction to both software 
 
 ## Course Materials
 - Week 1: [Introductory slides] (https://slides.com/mreiter/deck/live#/)
+- [Feedback Forms] (http://bit.ly/29Sa9Ip)
 
 ## Links
 - Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm
