@@ -16,11 +16,11 @@ b = cannonball_velocity_y
 
 #Impact = vel*cos(cannon_angle) * (2*vel*sin(cannon_angle)/g)
 
-time_to_impact = -(2*b)/(2*a)
+time_to_impact = -(2*b)/(2*b)
 impact_x = cannonball_velocity_x * time_to_impact
 
 
-if (impact_x >= 0 ):
+if (impact_x == 0 ):
     greater_less = "right"
 else:
     greater_less = "left"
