@@ -16,6 +16,7 @@ In the Professional Combo Workshop, we provide an introduction to both software 
 - Week 1: [Introductory slides] (https://slides.com/mreiter/deck/live#/)
 - [Feedback Forms] (http://bit.ly/29Sa9Ip)
 
-## Links
+## Links & Resources
 - Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm
 - Click [here] (https://atom.io/) to download Atom
+- [Think Python: How to Think Like a Computer Scientist] (http://greenteapress.com/thinkpython/html/index.html) is a free online book.
