@@ -3,18 +3,21 @@ import math
 #We're using rounded g = 10 m/s^2.
 g = -10
 
-cannon_velocity = int(raw_input("Enter velocity of cannonball: ")) 
+cannon_speed = int(raw_input("Enter speed of cannonball: ")) 
 
 
 
-#Fire the cannon at a 45 degree angle.
-cannonball_velocity_x = cannon_velocity/2
-cannonball_velocity_y = cannon_velocity/2
+#Fire the cannon at a 45 degree angle. This means both x and y velocity
+#are half of the speed of the cannonball.
+cannonball_velocity_x = cannon_speed/2
+cannonball_velocity_y = cannon_speed/2
 
 a = g/2
 b = cannonball_velocity_y
 
-#Impact = vel*cos(cannon_angle) * (2*vel*sin(cannon_angle)/g)
+#Impact time = vel*cos(cannon_angle) * (2*vel*sin(cannon_angle)/g)
+#Here, this simplifies down to -(yvel / g), assuming g is negative since
+#it signifies downward acceleration.
 
 time_to_impact = -(2*b)/(2*b)
 impact_x = cannonball_velocity_x * time_to_impact
