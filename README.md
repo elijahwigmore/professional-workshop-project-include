@@ -18,5 +18,7 @@ In the Professional Combo Workshop, we provide an introduction to both software 
 
 ## Links & Resources
 - Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm
+    - If you are on Windows, you're going to have to download [Python 2.7] (https://www.python.org/downloads/) before you can get started on PyCharm.
+    - Once Python is installed on your machine, configure the PyCharm interpreter to the local python path.
 - Click [here] (https://atom.io/) to download Atom
 - [Think Python: How to Think Like a Computer Scientist] (http://greenteapress.com/thinkpython/html/index.html) is a free online book.
