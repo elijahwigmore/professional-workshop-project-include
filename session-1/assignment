@@ -1,0 +1,34 @@
+Movie Review Assignment
+
+Task:
+For this assignment, you will take as input a movie name and three given ratings for it (between 0-100). With this information, you will
+print the average rating and a comment based on what the average rating is.
+
+Possible Comments:
+<movie name> is awful! (average rating of 0-19)
+<movie name> is quite bad! (average rating of 20-39)
+<movie name> is alright! (average rating of 40-59)
+<movie name> is pretty good! (average rating of 60-79)
+<movie name> is fantastic! (average rating of 80-100)
+
+Examples:
+Below are a couple cases for when the program is run. Text within <> brackets means it is input from the user, all other text is printed
+with the print function.
+
+1.
+Enter name of movie: <The Dark Knight>
+Enter first rating: <95>
+Enter second rating: <90>
+Enter third rating: <95>
+
+The Dark Knight is fantastic!
+The average rating is 93.333333
+
+2.
+Enter name of movie: <Avatar>
+Enter first rating: <45>
+Enter second rating: <30>
+Enter third rating: <60>
+
+Avatar is alright!
+The average rating is 45
