@@ -1,10 +1,15 @@
 Movie Review Assignment
 
+Concepts Incorporated:
+- Input and Output
+- Arithmetic
+- If/Else Statements
+
 Task:
 For this assignment, you will take as input a movie name and three given ratings for it (between 0-100). With this information, you will
 print the average rating and a comment based on what the average rating is.
 
-Possible Comments:
+Possible Comments to Output:
 <movie name> is awful! (average rating of 0-19)
 <movie name> is quite bad! (average rating of 20-39)
 <movie name> is alright! (average rating of 40-59)
