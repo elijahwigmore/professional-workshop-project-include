@@ -1,0 +1,74 @@
+Matrix Assignment
+
+Concepts Incorporated:
+- Functional Programming
+- Iteration
+- Lists
+
+Background:
+    In Python, you can use a list of lists to store a matrix, with each inner list representing a row. For example, you can store the matrix
+
+    5 6 7
+    0 3 5
+
+    by storing each row as a list:
+
+    M = [[5, 6, 7], [0, 3, 5]].
+
+    You can use M[1] to access the second row of M: [0, 3, 5]
+
+    and you can use M[1][2] to access the third entry in the second row: 5.
+
+Task:
+    This assignment is to be completed in parts.
+
+    (A) Write a function with the signature print_matrix(M), which takes the following argument:
+        M is a matrix in the form of a list of lists.
+
+        The function should iteratively print the contents of the matrix. For example:
+
+            M = [[5, 6, 7], [0, 3, 5]]
+            signature print_matrix(M)
+
+            >> 5 6 7
+            >> 0 3 5
+
+    (B) Write a function with the signature matrix_dimension(M), which takes the following argument:
+        M is a matrix in the form of a list of lists.
+
+        The function should return the dimensions of the list. Hint: think about how you can modify your code from part (A) to accomplish this task.
+
+            M = [[5, 6, 7], [0, 3, 5]]
+            signature matrix_dimension(M)
+
+            >> 2 x 3
+
+Challenge Exercises:
+    Matrices are very important tools in the world of mathematics. Like other mathematical objects, called "vectors", we can perform addition, subtraction and even multiplication.
+
+    Consider the two matrices:
+
+    A = 5 6 7       and     B =  1 2 3
+        0 3 5                    4 5 6
+
+    The result between the following operations are:
+
+    A + B   =   5 8 10
+                4 8 11
+
+    A - B   =    4  4  4
+                -4 -2 -1
+
+    B - A   =   -4 -4 -4
+                 4  2  1
+
+    By inspection, we can see that matrix addition and subtraction are straightforward. Formally, in order to add or subtract matrices:
+        1) ensure that matrices are of the same size! You cannot add or subtract matrices that are of different dimensions.
+        2) provided that the matrices are of the same size, look at each entry in the first matrix and perform the given operation with the same entry in the second matrix.
+        3) the result is a matrix which corresponds to the operations of each like-entry.
+
+    (C) Write a function with the signature add_or_subtract(A, B, Operation) which takes the following arguments:
+        A and B are matrices, represented by lists of lists
+        Operation is a string that is strictly either "ADD" or "SUB"
+
+        The function should return a matrix, represented by a list of lists, that represents the solution to the given operation.
