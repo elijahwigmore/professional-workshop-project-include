@@ -1,6 +1,6 @@
 # Project Include: Professional Combo Workshop
 
-![alt text](http://bit.ly/29XrNQE "Project Include Logo"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img src="http://bit.ly/29XrNQE" align="right" />
 
 ## About
 Project Include is an initiative that is part of the Engineering Society at the University of Toronto. We are hosting workshops throughout Toronto to teach people how to program.
@@ -9,11 +9,13 @@ In the Professional Combo Workshop, we provide an introduction to both software 
 
 ## Syllabus
 Development in Python
+
     - Week 1: Introduction to Python and Programming Logic
     - Week 2: Python and Programming Logic Cont'd
     - Week 3: Developing Interactive Tic-Tac-Toe game
 
 Development in HTML and CSS
+
     - Week 4: Introduction to Web Development
     - Week 5: Professional Skill Development: Resumes, Cover Letters and Interviews
     - Week 6: Developing Personal Website
