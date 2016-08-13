@@ -28,25 +28,31 @@ Development in HTML and CSS
 ## Getting started
 - Make sure you have an account on Github.
 - Fork this repository.
-- Clone the forked repository using:
-   	git clone https://github.com/<repository_path_name>.git
+- Clone the forked repository
 - Happy Coding!
 
-	### Pushing
-	Once you are happy with the changes that you made to your code, PUSH the changes to Github.
+## Git commands
 
-	Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following commands:
+### Clone
+To clone a repository, open your console and navigate to a desired path. Use the following command:
 
-          git add --all
-          git commit -m "brief message summarizing reasons for push"
-          git push origin master
+   	git clone https://github.com/<repository_path_name>.git
 
-	### Pulling
-    Whenever you want to receive an up-to-date copy of the repository, use git pull:
+### Push
+Once you are happy with the changes that you made to your code, PUSH the changes to Github.
 
-    Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following command:
+Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following commands:
 
-    	git pull
+      git add --all
+      git commit -m "brief message summarizing reasons for push"
+      git push origin master
+
+### Pull
+Whenever you want to receive an up-to-date copy of the repository, use git pull:
+
+Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following command:
+
+	git pull
 
 ## Links & Resources
 - Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm
