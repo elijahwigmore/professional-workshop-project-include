@@ -13,6 +13,7 @@ Development in Python
     Week 1: Introduction to Python and Programming Logic
     Week 2: Python and Programming Logic Cont'd
     Week 3: Developing Interactive Tic-Tac-Toe game
+        Click [here](https://github.com/elijahwigmore/tic-tac-toe) for a complete version of this game
 
 Development in HTML and CSS
 
