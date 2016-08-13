@@ -21,7 +21,7 @@ Development in HTML and CSS
     Week 6: Developing Personal Website
 
 ## Course Materials
-- [Introductory slides] (https://slides.com/mreiter/deck/live#/)
+- [Introductory slides] (https://slides.com/mreiter/deck/)
 - [Tic Tac Toe Code] (https://github.com/elijahwigmore/tic-tac-toe)
 - [Feedback Forms] (http://bit.ly/29Sa9Ip)
 
@@ -65,3 +65,9 @@ Open your console and navigate to the path that contains your github repository.
 - [CSS Online Documentation](http://www.w3schools.com/cssref/)
 - Click [here](http://getbootstrap.com/) to download Bootstrap
 - [Bootstrap Documentation](http://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+
+## Contact Information
+- Project Include: include.skule@gmail.com
+- Matthew Reiter: mail@matthewreiter.me
+- Elijah Wigmore: elijahwigmore@gmail.com
+- Bryon Leung: teslaslegacy@gmail.com
