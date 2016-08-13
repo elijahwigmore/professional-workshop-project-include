@@ -24,6 +24,11 @@ Development in HTML and CSS
 - [Introductory slides] (https://slides.com/mreiter/deck/live#/)
 - [Feedback Forms] (http://bit.ly/29Sa9Ip)
 
+## Getting started
+- Make sure you have an account on Github.
+- Fork this repository.
+- Happy Coding!
+
 ## Links & Resources
 - Click [here] (https://www.jetbrains.com/pycharm/download/#section=windows) to download PyCharm
     - If you are on Windows, you're going to have to download [Python 2.7] (https://www.python.org/downloads/) before you can get started on PyCharm. Once Python is installed on your machine, configure the PyCharm interpreter to the local python path.
