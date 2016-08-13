@@ -10,15 +10,15 @@ In the Professional Combo Workshop, we provide an introduction to both software 
 ## Syllabus
 Development in Python
 
-    - Week 1: Introduction to Python and Programming Logic
-    - Week 2: Python and Programming Logic Cont'd
-    - Week 3: Developing Interactive Tic-Tac-Toe game
+    Week 1: Introduction to Python and Programming Logic
+    Week 2: Python and Programming Logic Cont'd
+    Week 3: Developing Interactive Tic-Tac-Toe game
 
 Development in HTML and CSS
 
-    - Week 4: Introduction to Web Development
-    - Week 5: Professional Skill Development: Resumes, Cover Letters and Interviews
-    - Week 6: Developing Personal Website
+    Week 4: Introduction to Web Development
+    Week 5: Professional Skill Development: Resumes, Cover Letters and Interviews
+    Week 6: Developing Personal Website
 
 ## Course Materials
 - [Introductory slides] (https://slides.com/mreiter/deck/live#/)
